@@ -1,0 +1,19 @@
+{
+  "name": "dswhatsapp",
+  "version": "1.0.0",
+  "description": "'whatsapp module for our project'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Fadhili",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "openai": "^4.95.1",
+    "twilio": "^5.5.2"
+  }
+}
